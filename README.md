@@ -1,7 +1,7 @@
 ## CardioMatic Clinic
 
 ### Technologies
-- **Backend:** Node.js with TypeScript
+- **Backend:** Node.js with TypeScript -> (https://github.com/mohamedmosilhy/cardiomatic-system-backend)
 - **Frontend:** React
 - **Database:** PostgreSQL
 

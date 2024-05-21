@@ -23,9 +23,6 @@
 
 
 ### Team Members Contacts
-- fady.seha01@eng-st.cu.edu.eg
-- Reem.Hamid01@eng-st.cu.edu.eg
-- Rana.essawi02@eng-st.cu.edu.eg
 - mohammed.abdulghani02@eng-st.cu.edu.eg
 - sondos.mohamed02@eng-st.cu.edu.eg
 - Mohamed.Al-Baydaq02@eng-st.cu.edu.eg

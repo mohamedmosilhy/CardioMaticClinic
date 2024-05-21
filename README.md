@@ -5,6 +5,13 @@
 - **Frontend:** React
 - **Database:** PostgreSQL
 
+### ScreenShots
+- ![Alt text](1.jpg)
+- ![Alt text](2.jpg)
+- ![Alt text](3.jpg)
+- ![Alt text](4.jpg)
+
+
 ### Naming Conventions
 - Use `camelCase` for variables and functions: `patientRecord`, `calculateBMI()`
 - Use `PascalCase` for class names: `CardiovascularSystem`

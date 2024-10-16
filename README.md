@@ -26,7 +26,7 @@
 - Use try-except blocks to handle exceptions and provide meaningful error messages.
 
 ### Team Structure
-- **Frontend Developers:** Mohamad Sayed Mosilhe & Sondos Mohamad.
+- **Frontend Developers:** Mohamad Sayed Mosilhe & Sondos Mahmoud.
 
 
 ### Team Members Contacts
